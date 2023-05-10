@@ -1,0 +1,11 @@
+.card {
+  width: 15rem;
+}
+a.link {
+  text-decoration: none;
+  color: black;
+}
+a.link:hover {
+  text-decoration: none;
+  color: black;
+}

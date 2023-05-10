@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.active_user {
+  cursor: pointer !important;
+}
+
+.active_user:hover {
+  color: rgb(92, 92, 253) !important;
+  transition: all 0.5s ease-in-out;
+}
+
+li {
+  list-style-type: none;
+}
+
+.fix_scroll {
+  overflow: auto !important;
+}

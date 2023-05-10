@@ -1,0 +1,13 @@
+.header {
+  background: linear-gradient(to right, #014872, #e0eacf);
+  opacity: 90%;
+  height: 3.5rem;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
+.header a:hover {
+  color: white;
+}
